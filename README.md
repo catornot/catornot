@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @catornot
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning more python.
+- 🌱 I’m currently learning:
+  - more python
+  - html and css
 - 💞️ I’m looking to collaborate on python projects
-- 📫 You can join discord server https://discord.gg/peqCYF3.
+- 📫 You should join discord server https://discord.gg/peqCYF3.
 
 <!---
 catornot/catornot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
