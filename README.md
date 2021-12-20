@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning:
   - more python
-  - pywebio
 - 💞️ I’m looking to collaborate on python projects
 - 📫 You should join discord server https://discord.gg/peqCYF3.
 
