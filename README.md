@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @catornot
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on almost any project
 - 📫 You can reach on me on my discord server https://discord.gg/peqCYF3.
 - Also I love cats 🐈‍⬛
 <!---
