@@ -1,10 +1,14 @@
 ## 👋 Hi, I’m Alex
-:computer: I am an aspiring **programmer**  who loves to work on new projects.
+:computer: I am an aspiring **programmer**  who loves to work on new projects.       
+> :iphone: Contacts : 
+>   1. *[Discord Server](https://discord.gg/peqCYF3)*
+>   2. *[LinkedIn](https://www.linkedin.com/in/alex-sadovnikov-61057b224)*
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catornot&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 <!---
 https://github.com/anuraghazra/github-readme-stats
+https://www.webfx.com/tools/emoji-cheat-sheet/
 - 👋 Hi, I’m @catornot
 - 💞️ I’m looking to collaborate on almost any project
 - 📫 You can reach on me on my discord server https://discord.gg/peqCYF3.
