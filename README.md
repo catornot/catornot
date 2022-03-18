@@ -1,4 +1,4 @@
-## 👋 Hi, I’m catronot
+## 👋 Hi, I’m catornot
 :computer: I am an aspiring **programmer**  who loves to work on new projects\.       
  :iphone: Contacts\: 
    1. *[Discord Server](https://discord.gg/peqCYF3)*
