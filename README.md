@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m catornot
 :computer: I am an aspiring **programmer**  who loves to work on new projects\.       
  :iphone: Contacts\: 
-   1. *[Discord Server](https://discord.gg/peqCYF3)*
+   1. Discord : `cat_or_not#3394`
 <!--    2. *[LinkedIn](https://www.linkedin.com/in/alex-sadovnikov-61057b224)*
    3. *[email](catornot48@gmail.com)* -->
 
