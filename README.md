@@ -1,6 +1,11 @@
 # hi
-I really like working with rust :3
+I am cat_or_not, a local northstar contributor and rust enjoyer
 
-rust is cool
+I make fun stuff with low level langs usually.
 
-discord  : `cat_or_not#3394`
+- contacts
+  - discord: `cat_or_not`
+  - matrix: `@cat_or_not:matrix.catornot.net`
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catornot&layout=compact)
+
