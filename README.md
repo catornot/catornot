@@ -7,5 +7,5 @@ I make fun stuff with low level langs usually.
   - discord: `cat_or_not`
   - matrix: `@cat_or_not:matrix.catornot.net`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catornot&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catornot&layout=compact) -->
 
